@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![inhyuks's GitHub stats](https://github-readme-stats.vercel.app/api?username=inhyuks)
+[![Inhyuks's github stats](https://github-readme-stats.vercel.app/api?username=inhyuks)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inhyuks)
 
 
