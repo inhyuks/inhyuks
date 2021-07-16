@@ -13,8 +13,6 @@ Work experience🚩
 >
 > + XX.XX ~ XX.XX   - 식당 원자재유통 플랫폼 이웃삼촌 백엔드 개발
 
-
-
 Programming Skill
 ----
 
