@@ -1,6 +1,8 @@
 
 Intro🧑
 ----
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sih2341@gmail.com)](mailto:sih2341@gmail.com)
+
 
 Work experience🚩
 ----
@@ -9,7 +11,7 @@ Work experience🚩
 > + 20.11 ~ ing⏳     - ERP 회계 솔루션 개발
 >
 >
-> + xx.xx ~ xx.xx   - 식당 원자재유통 플랫폼 이웃삼촌 백엔드 개발
+> + XX.XX ~ XX.XX   - 식당 원자재유통 플랫폼 이웃삼촌 백엔드 개발
 
 
 
