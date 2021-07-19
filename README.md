@@ -7,11 +7,12 @@ Intro🧑
 Work experience🚩
 ----
 > + 18.07 ~ 19.07 - 핸디소프트 그룹웨어 엔지니어
-> + 19.07 ~ 20.11 - 유비시스템 IT 영업대표 매칭 플랫폼 Sellz 백엔드 개발 ( [매칭 플랫폼 sellz](https://sellz.co.kr) )
+> + 19.07 ~ 20.11 - 유비시스템 [온라인 영업 플랫폼, SELLZ](https://sellz.co.kr) 백엔드 개발
+> + XX.XX ~ XX.XX - [작은식당 식자재 상점, 이웃삼촌](https://sellz.co.kr) 백엔드 개발
 > + 20.11 ~ ing⏳     - ERP 회계 솔루션 개발
 >
 >
-> + XX.XX ~ XX.XX   - 식당 원자재유통 플랫폼 이웃삼촌 백엔드 개발
+
 
 Programming Skill
 ----
